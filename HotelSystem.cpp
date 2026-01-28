@@ -209,3 +209,4 @@ void HotelSystem::customerMenu() {
         }
     }
 }
+return 0;
